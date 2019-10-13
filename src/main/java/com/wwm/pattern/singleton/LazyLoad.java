@@ -1,4 +1,4 @@
-package com.wwm.singleton;
+package com.wwm.pattern.singleton;
 
 public class LazyLoad {
 
